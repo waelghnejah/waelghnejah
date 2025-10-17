@@ -4,8 +4,8 @@
 أعشق تبسيط المفاهيم العلمية، وأؤمن أن التعليم الحقيقي يبدأ بالفضول. مؤخراً بدأت رحلتي في تعلم لغة Python، لأحول الفيزياء من معادلات جامدة إلى تجارب تفاعلية!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=waelghunaijah&theme=dark&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=waelghunaijah&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=waelghnejah&theme=dark&show_icons=true">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=waelghnejah&show_icons=true">
 </picture>
 
 ---
