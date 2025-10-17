@@ -50,6 +50,6 @@
 ---
 
 ## ✒️ توقيعي الرسمي
-![WNG Logo](https://your-image-url-here.com) 
+<img src="https://raw.githubusercontent.com/waelghnejah/waelghnejah/main/a%20digital%20signature%201.png" alt="WNG Logo" width="300"/>
 
 ---
